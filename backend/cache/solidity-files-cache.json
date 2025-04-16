@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\hampa\\Desktop\\Blockchain_Project\\backend\\contracts\\SubscriptionManager.sol": {
+      "lastModificationDate": 1744702969682,
+      "contentHash": "06f74b0bf6b9a2293fbbd585cfd07e7f",
+      "sourceName": "contracts/SubscriptionManager.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "SubscriptionManager"
+      ]
+    }
+  }
+}
